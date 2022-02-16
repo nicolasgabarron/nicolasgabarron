@@ -1,5 +1,5 @@
 - 👋 Hola!, soy @nicolasgabarron / Hi, I’m @nicolasgabarron
-- 👀 Mis principales intereses son Java, Python y hacer el mundo más simple. / I’m interested in Java, Python and doing a more simple world.
+- 👀 Mis principales intereses son Java, Flutter, y otras tantas tecnologías, ah, y ¡hacer el mundo más simple!. / I’m interested in Java, Flutter, etc, ah ¡and doing a more simple world!.
 - 🌱 Actualmente me encuentro aprendiendo Java, C#, JavaScript y Flutter. / I’m currently learning Java, C#, JavaScript and Flutter.
 - 📫 Me puedes encontrar en: Twitter (@nicogbdev), IG(@nicogbdev), y en mi email principal (nicogabarron@nicogbdev.com).
 - 📫 How to reach me: On Twitter (@nicogbdev), IG (@nicogbdev) and in my e-mail (nicogabarron@nicogbdev.com).
