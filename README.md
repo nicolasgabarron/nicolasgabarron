@@ -7,15 +7,11 @@
 
 - 🌱 I’m currently learning **C#, Flutter, Angular, Spring, Node.JS, etc.**
 
-- 👨‍💻 All of my projects are available at [nicogbdev.com](nicogbdev.com)
-
 - 📝 I regularly read articles from [xataka.com, w3schools.com, resocoder.com, kalletech.com, etc.](xataka.com, w3schools.com, resocoder.com, kalletech.com, etc.)
 
 - 💬 Ask me about **any questions you think i know how to solve.**
 
 - 📫 How to reach me **nicolasgabarron@nicogbdev.com**
-
-- 📄 Know about my experiences [nicogbdev.com](nicogbdev.com)
 
 - ⚡ Hobbies **cycling, trekking, running, padel, etc.**
 
