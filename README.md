@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **any questions you think i know how to solve.**
 
-- 📫 How to reach me **nicolasgabarron@nicogbdev.com**
+- 📫 How to reach me **nicolas.gabarron@proton.me**
 
 - ⚡ Hobbies **cycling, trekking, running, padel, etc.**
 
